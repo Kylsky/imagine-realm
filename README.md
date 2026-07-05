@@ -1,6 +1,6 @@
 # Imagine-Realm
 [![Telegram 交流群](https://img.shields.io/badge/Telegram-交流群-blue?logo=telegram)](https://t.me/+W7iplSdBGXhlMDc1)
-[![Linux DO](https://img.shields.io/badge/Linux%20DO-Yelo-green?logo=discourse)](https://linux.do/u/yelo/summary)
+[![学 AI，上Linux DO](https://img.shields.io/badge/Linux%20DO-Yelo-green?logo=discourse)](https://linux.do/u/yelo/summary)
 
 [Imagine Relam](https://img.yeelo.fun) 是一个面向图像与视频生成的创作后台，提供图像生成、对话式图像 Agent等能力。
 
