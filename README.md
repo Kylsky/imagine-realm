@@ -1,4 +1,4 @@
-# imagine-realm
+# Imagine-Realm
 [![Telegram 交流群](https://img.shields.io/badge/Telegram-交流群-blue?logo=telegram)](https://t.me/+W7iplSdBGXhlMDc1)
 [![Linux DO](https://img.shields.io/badge/Linux%20DO-Yelo-green?logo=discourse)](https://linux.do/u/yelo/summary)
 
