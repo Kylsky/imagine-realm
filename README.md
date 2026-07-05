@@ -2,7 +2,7 @@
 [![Telegram 交流群](https://img.shields.io/badge/Telegram-交流群-blue?logo=telegram)](https://t.me/+W7iplSdBGXhlMDc1)
 [![Linux DO](https://img.shields.io/badge/Linux%20DO-Yelo-green?logo=discourse)](https://linux.do/u/yelo/summary)
 
-Imagine Relam 是一个面向图像与视频生成的创作后台，提供图像生成、对话式图像 Agent等能力。
+[Imagine Relam](https://img.yeelo.fun) 是一个面向图像与视频生成的创作后台，提供图像生成、对话式图像 Agent等能力。
 
 <img width="4142" height="2140" alt="f5ccdc3b835acca59bc45e1ab5b64294" src="https://github.com/user-attachments/assets/fe3015ef-f82b-40e4-a48a-28937342fe96" />
 
